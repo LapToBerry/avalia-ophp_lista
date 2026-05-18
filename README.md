@@ -25,4 +25,4 @@ http://localhost/tasksync
 
 ## Usuarios
 - Luis Felipe Cardoso: email: Cardoso@gmail.com senha: 123
-- Lucas Machado dos Santos: Santos@gmail.com senha: 321
+- Lucas Machado dos Santos: email: Santos@gmail.com senha: 321
